@@ -11,7 +11,7 @@ describe("Testing API restful", function () {
     it("Test Success POST", async function () {
         const userData = {
             "name": "Alifio Fathan Haryanto",
-            "email": "alhaeew.f@gmail.com",
+            "email": "alhaepw.f@gmail.com",
             "gender": "male",
             "status": "inactive"
         };
@@ -76,7 +76,7 @@ describe("Testing API restful", function () {
     it("Test Success PUT", async function () {
         const userData = {
             "name": "Alooo Fathan Haryanto",
-            "email": "aliefieeeo.oowoooo@gmail.com",
+            "email": "aliefieieo.oowoooo@gmail.com",
             "gender": "male",
             "status": "inactive"
         };
